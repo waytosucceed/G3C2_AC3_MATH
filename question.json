@@ -1,0 +1,167 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "They saw the number<br> 400 + 70 + 1. 'What does this number look like in standard form?'",
+    "options": [
+      "4701",
+      "471",
+      "4071",
+      "470"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "A box of apples showed <br>9,000 + 200 + 10 + 2. 'What’s the standard form of this number?'",
+    "options": [
+      "9,211",
+      "9,200",
+      "9,212",
+      "9,210"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "He saw another number <br>10,000 + 7,000 + 300 + 10 + 4. 'Can you figure out the standard form of this number?'",
+    "options": [
+      "18,314",
+      "17,313",
+      "17,312",
+      "17,314"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Alex noticed a crate of bananas labeled <br>3,000,000 + 800,000 + 0 + 3,000 + 400 + 30 + 7. 'What’s the standard form of this number?'",
+    "options": [
+      "3,803,437",
+      "38,30,437",
+      "3,04,773",
+      "3,803,734"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "question": "The weight of mixed berries was <br>1,000,000 + 700,000 + 60,000 + 1,000 + 900 + 50 + 7 grams. Mr. George asked Alex, 'What’s the standard form of this number?'",
+    "options": [
+      "10,761,956",
+      "17,609,57",
+      "1,761,957",
+      "107,61,957"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Alex picked up a bag of cherries that weighed 343. 'What’s the expanded form of this number?'",
+    "options": [
+      "300 + 50 + 3",
+      "300 + 40 + 3",
+      "300 + 30 + 3",
+      "300 + 20 + 3"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "The weight of a basket of pineapples was 1,434 on a label. 'How would we write this number in expanded form?'",
+    "options": [
+      "1,000 + 40 + 30 + 4",
+      "1,000 + 300 + 30 + 4",
+      "1,000 + 400 + 30 + 4",
+      "1,000 + 400 + 300 + 4"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8",
+    "question": "A crate of grapes was labeled 4,289. 'What is the expanded form of this number?'",
+    "options": [
+      "4,000 + 200 + 80 + 9",
+      "4,000 + 800 + 20 + 9",
+      "4,000 + 200 + 800 + 9",
+      "4,000 + 2,000 + 80 + 9"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "question": "The grand weight of all fruits combined was 2,117,538. 'What’s the expanded form of this number?'",
+    "options": [
+      "200,000 + 10,000 + 1,000 + 7,000 + 300 + 50 + 8",
+      "2,000,000 + 100,000 + 10,000 + 7,000 + 500 + 30 + 8",
+      "2,000,000 + 100,000 + 10,000 + 3,000 + 700 + 50 + 8",
+      "20,00,000 + 10,000 + 10,000 + 5,000 + 700 + 80 + 5"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Finally, Alex saw the total weight 502,571. 'What is the expanded form of this number?'",
+    "options": [
+      "500,000 + 2,000 + 500 + 7 + 1",
+      "500,000 + 0 + 1,000 + 50 + 70 + 1",
+      "50,000 + 2,000 + 500 + 70 + 1",
+      "500,000 + 0 + 2,000 + 500 + 70 + 1"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q11",
+    "question": "One crate weighted <br>748 = 700 + ____ + 8. 'What goes in the blank?'",
+    "options": [
+      "40",
+      "50",
+      "30",
+      "60"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12",
+    "question": "The next weight reads <br>9,412 = ____ + 400 + 10 + 2. 'What number fits in the blank?'",
+    "options": [
+      "9,000",
+      "1,000",
+      "900",
+      "8,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "question": "A big box of treats weighted <br>23,507 = 20,000 + ____ + 500 + 0 + 7. 'What should be put in the blank?'",
+    "options": [
+      "3,000",
+      "30",
+      "300",
+      "5,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14",
+    "question": "A large box said <br>1,035,208 = 1,000,000 + 0 + ____ + 5,000 + 200 + 0 + 8. 'Can you fill in the blank?'",
+    "options": [
+      "30,000",
+      "3,000",
+      "300,000",
+      "30"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15",
+    "question": "The final number read <br>7,809,014 = ____ + 800,000 + 0 + 9,000 + 0 + 10 + 4. 'What goes in the blank?'",
+    "options": [
+      "70,000",
+      "800,000",
+      "7,00,000",
+      "7,000,000"
+    ],
+    "correct": 3
+  }
+]
